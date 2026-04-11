@@ -12,4 +12,3 @@ Day 4 安装日志
 ● lerobot import: success
 结论
 LeRobot + PyTorch GPU 环境安装成功，可以进入后续训练命令学习和样例实验阶段。
->>>>>>> bbff8b777f1f46632b2743b033b08d0530238449
